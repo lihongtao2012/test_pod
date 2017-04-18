@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "test_pod"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "test_pod. good"
 
 
