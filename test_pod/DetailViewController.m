@@ -29,7 +29,8 @@
     [self configureView];
     
     NSLog(@"self.view.height %@",@(self.view.height));
-    
+    NSLog(@"self.view.width %@",@(self.view.width));
+
 }
 
 
