@@ -30,6 +30,7 @@
     
     NSLog(@"self.view.height %@",@(self.view.height));
     NSLog(@"self.view.width %@",@(self.view.width));
+    NSLog(@"self.view.1 %@",@(self.view.width +self.view.height));
 
 }
 
